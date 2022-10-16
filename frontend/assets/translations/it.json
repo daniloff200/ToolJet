@@ -488,7 +488,6 @@
             "data": "Dati",
             "tableData": "Tabella dati",
             "tableColumns": "Colonne tabella",
-            "searverSideSearch": "Ricerca sul lato server",
             "loadingState": "Stato di Caricamento",
             "serverSidePagination": "Paginazione sul lato server",
             "clientSidePagination": "Paginazione sul lato del Client",
